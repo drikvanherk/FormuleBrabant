@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormuleBrabant.Server", "FormuleBrabant.Server\FormuleBrabant.Server.csproj", "{D914BF9E-8AC6-4005-A2C4-929476734496}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "formulebrabant.client", "formulebrabant.client\formulebrabant.client.esproj", "{99964660-BBD3-4CA9-91D5-6B2EF9E0C744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D914BF9E-8AC6-4005-A2C4-929476734496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D914BF9E-8AC6-4005-A2C4-929476734496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D914BF9E-8AC6-4005-A2C4-929476734496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D914BF9E-8AC6-4005-A2C4-929476734496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99964660-BBD3-4CA9-91D5-6B2EF9E0C744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99964660-BBD3-4CA9-91D5-6B2EF9E0C744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99964660-BBD3-4CA9-91D5-6B2EF9E0C744}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{99964660-BBD3-4CA9-91D5-6B2EF9E0C744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99964660-BBD3-4CA9-91D5-6B2EF9E0C744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99964660-BBD3-4CA9-91D5-6B2EF9E0C744}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@FormuleBrabant.Server_HostAddress = http://localhost:5149
+
+GET {{FormuleBrabant.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
